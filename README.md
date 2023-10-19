@@ -12,6 +12,6 @@ You will need the python development package for your linux distro, for opensuse
 
 to compile run 
 
-'''make build''' 
+```make build```
 
 When it is done compiling, there will be a compiled folder with the whiskey execution file inside.
