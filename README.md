@@ -8,7 +8,7 @@ Currently you can only read and write to the memory of a game, but features like
 # to compile
 
 
-You will need the python development package for your linux distro, for opensuse it is python-devel. You will also need wine. Then you will need to run the makefile. 
+You will need the python development package for your linux distro, for fedora it is python-devel. You will also need wine. Then you will need to run the makefile. 
 
 to compile run 
 
